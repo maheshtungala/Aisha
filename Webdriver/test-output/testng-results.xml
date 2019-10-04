@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite2" duration-ms="100" started-at="2019-10-02T07:05:32Z" finished-at="2019-10-02T07:05:32Z">
+    <groups>
+    </groups>
+    <test name="myTest2" duration-ms="100" started-at="2019-10-02T07:05:32Z" finished-at="2019-10-02T07:05:32Z">
+      <class name="testng.Example3">
+        <test-method status="PASS" signature="addCompany()[pri:0, instance:testng.Example3@1f13d6e]" name="addCompany" duration-ms="9" started-at="2019-10-02T12:35:32Z" finished-at="2019-10-02T12:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCompany -->
+        <test-method status="PASS" signature="editCompany()[pri:0, instance:testng.Example3@1f13d6e]" name="editCompany" duration-ms="4" started-at="2019-10-02T12:35:32Z" finished-at="2019-10-02T12:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editCompany -->
+      </class> <!-- testng.Example3 -->
+      <class name="testng.Example2">
+        <test-method status="PASS" signature="addLocation()[pri:0, instance:testng.Example2@1d7a715]" name="addLocation" duration-ms="21" started-at="2019-10-02T12:35:32Z" finished-at="2019-10-02T12:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation -->
+        <test-method status="PASS" signature="editLocation()[pri:0, instance:testng.Example2@1d7a715]" name="editLocation" duration-ms="3" started-at="2019-10-02T12:35:32Z" finished-at="2019-10-02T12:35:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLocation -->
+      </class> <!-- testng.Example2 -->
+    </test> <!-- myTest2 -->
+  </suite> <!-- mysuite2 -->
+</testng-results>
